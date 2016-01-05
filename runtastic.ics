@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:/source_code/Runstatic2Gagenda/NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:1110517722
+SUMMARY:running
+URL;VALUE=URI:https://www.runtastic.com/fr/utilisateurs/romain-clement-12/activites-sportives/1110517722
+DESCRIPTION;ENCODING=QUOTED-PRINTABLE: distance:5416 m \n pace:7.73 min\km \n speed:7.76 km\h \n kcal:698 kcal \n heartrate_avg:147 bpm \n heartrate_max:163 bpm \n elevation_gain:80 m \n elevation_loss:80 m \n surface:road \n weather:cloudy \n feeling:good \n URL: <a href="https://www.runtastic.com/fr/utilisateurs/romain-clement-12/activites-sportives/1110517722">Activities page_url</a> \n
+DTSTAMP:20160105T000020
+DTSTART:20160104T122231
+DTEND:20160104T130424
+ATTACH;FILENAME=map.jpg;FMTTYPE=image/jpeg://static-maps.runtastic.com/static-map/?style=mapnik&color=ff0000&width=50&height=70&path=%7DhbiH_lnMSHwFbFiEtBzBzDnEvIVb%40fAmEtDeH%60JcMjDuDtEoEjC_BtB%7BA%60BsBXqGoBwCcB_GxCeFfBmC%7CCsDrBqCxB%7DC%7D%40z%40%7BBbEgDfD%7DA%60BsErGcCjDcAbB%7CDmFlB_CtDwF%7ECqDzBeDbB_CKImBtCkB%7ECoDzEgAdAoE%60HnAbDdC%7CFA%7EEoBxCsBpBeD%7CCgB_%40%7DCuEmDvAwCjDkBhC&weigth=3
+END:VEVENT
+BEGIN:VEVENT
+UID:1108382083
+SUMMARY:running
+URL;VALUE=URI:https://www.runtastic.com/fr/utilisateurs/romain-clement-12/activites-sportives/1108382083
+DESCRIPTION;ENCODING=QUOTED-PRINTABLE: distance:4733 m \n pace:7.67 min\km \n speed:7.82 km\h \n kcal:607 kcal \n heartrate_avg:151 bpm \n heartrate_max:161 bpm \n elevation_gain:37 m \n elevation_loss:35 m \n surface:road \n weather:cloudy \n feeling:good \n URL: <a href="https://www.runtastic.com/fr/utilisateurs/romain-clement-12/activites-sportives/1108382083">Activities page_url</a> \n
+DTSTAMP:20160105T000039
+DTSTART:20160102T121443
+DTEND:20160102T125101
+ATTACH;FILENAME=map.jpg;FMTTYPE=image/jpeg://static-maps.runtastic.com/static-map/?style=mapnik&color=ff0000&width=50&height=70&path=s%7CqhHaz_MCh%40%7DDjFaBA%7BCeG%7DFlB%7DAsGu%40iJmA%7B%40iA%40eDV%7DECyAxAcDp%40%7DDx%40gD%7C%40gAaAu%40_G%7EAqDkCcEwDrA_%40fEjDtANtEwBvEqClAcD%7E%40kE%7E%40gBh%40zCbChCo%40dDeAnFiAnEUbBaBbCk%40%60Di%40lD_%40nEs%40vAgCxAw%40%7CBgB%60B%7C%40jBQ%7C%40hDxBvGvBfDtBjDrB%5EbDaGvDM&weigth=3
+END:VEVENT
+END:VCALENDAR
